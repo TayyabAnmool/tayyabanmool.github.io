@@ -8,6 +8,15 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
+.h {
+  border: none !important;
+  height: 2px !important;
+  /* Set the hr color */
+  color: #F5F8FD; /* old IE */
+  background-color: #cfddf5; /* Modern Browsers */
+}
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
